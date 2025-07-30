@@ -44,13 +44,11 @@ node index.js
 [!TIP]
 > Puedes modificar `deepThinking.js` o `imagesGemini.js` para experimentar con diferentes prompts y configuraciones.
 
----
+[!NOTE]
+> Recuerda que para usar GeminiAI necesitas una clave de API válida y configurarla en tu entorno.
 
-## 🏷️ Labels y Buenas Prácticas
-
-- **[Label: Práctica]**: Todos los ejemplos están pensados para el aprendizaje.
-- **[Label: GeminiAI]**: Código relacionado directamente con la API de Gemini.
-- **[Label: Imagen]**: Archivos y scripts para generación de imágenes.
+[!NOTE]
+> Si tienes problemas con dependencias, revisa que tu versión de Node.js sea compatible.
 
 ---
 
@@ -65,6 +63,9 @@ node index.js
 
 [!TIP]
 > Lee y personaliza los scripts para adaptarlos a tus necesidades. ¡La mejor forma de aprender es experimentando!
+
+[!NOTE]
+> Este proyecto es ideal para quienes quieren practicar integración de IA en Node.js de forma sencilla.
 
 ---
 
