@@ -1,5 +1,9 @@
 # 🤖 Proyecto de Práctica: GeminiAI
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GeminiAI](https://img.shields.io/badge/GeminiAI-Google-blue?style=for-the-badge)
+
 ¡Bienvenido/a! Este proyecto es una práctica para aprender a usar e implementar GeminiAI en aplicaciones Node.js.
 
 ---
@@ -41,13 +45,13 @@ Ejecuta el archivo principal para probar GeminiAI:
 node index.js
 ```
 
-[!TIP]
+>[!TIP]
 > Puedes modificar `deepThinking.js` o `imagesGemini.js` para experimentar con diferentes prompts y configuraciones.
 
-[!NOTE]
+>[!NOTE]
 > Recuerda que para usar GeminiAI necesitas una clave de API válida y configurarla en tu entorno.
 
-[!NOTE]
+>[!NOTE]
 > Si tienes problemas con dependencias, revisa que tu versión de Node.js sea compatible.
 
 ---
@@ -61,10 +65,10 @@ node index.js
 
 ## 💡 Consejos
 
-[!TIP]
+>[!TIP]
 > Lee y personaliza los scripts para adaptarlos a tus necesidades. ¡La mejor forma de aprender es experimentando!
 
-[!NOTE]
+>[!NOTE]
 > Este proyecto es ideal para quienes quieren practicar integración de IA en Node.js de forma sencilla.
 
 ---
